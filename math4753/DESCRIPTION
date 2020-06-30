@@ -1,0 +1,13 @@
+Package: math4753
+Type: Package
+Title: course 4753
+Version: 0.1.0
+Author: taoxu zhu
+Maintainer: taoxu zhu <taoxu.zhu@gmail.com>
+Description: for the course of math.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Depends: 
+    R (>= 2.10)
